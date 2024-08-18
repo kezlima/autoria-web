@@ -2,25 +2,23 @@
 border : 1 px solid red ;
 }
 
-
 p {
-  color: green;
+  color: rgb(125, 35, 228);
 }
-
-
 
 .title{
   color : teal ;
 }
 
-.uppercase{
+.uppercase h1{
   text-transform : uppercase ;
 }
 
 h1#article-title {
-  font-family:cursive;
+  font-family: cursive;
 }
 
 a [ href *= ’florence’] {
   color : lightgreen ;
   }
+
